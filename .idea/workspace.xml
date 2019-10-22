@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d6b0c0d-3cbd-4548-901d-1d2c576c8ddc" name="Default Changelist" comment="" />
+    <list default="true" id="1d6b0c0d-3cbd-4548-901d-1d2c576c8ddc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,6 +20,11 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="pjw1994" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -66,7 +73,22 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="alldependenciesparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alldependenciesparent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alldependenciesparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alldependenciesparent" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -104,12 +126,12 @@
       <option name="presentableId" value="Default" />
       <updated>1571533131876</updated>
       <workItem from="1571533135722" duration="1194000" />
-      <workItem from="1571756195403" duration="4036000" />
+      <workItem from="1571756195403" duration="5458000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5230000" />
+    <option name="totallyTimeSpent" value="6652000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -158,6 +180,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="作为版本依赖父项" />
+    <option name="LAST_COMMIT_MESSAGE" value="作为版本依赖父项" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
